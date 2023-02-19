@@ -7,3 +7,4 @@ title = "testo"
 
 [output.html]
 site-url = "/test-ghpages-mdbook/"
+git-repository-icon = "fa-book-sparkles"
