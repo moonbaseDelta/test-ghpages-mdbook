@@ -7,10 +7,4 @@ title = "testo"
 
 [output.html]
 site-url = "/test-ghpages-mdbook/"
-git-repository-icon = "fa-book-sparkles"
-additional-css = ['.\theme\catppuccin.css', '.\theme\catppuccin-highlight.css']
-
-[preprocessor]
-
-[preprocessor.catppuccin]
-assets_version = "0.1.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
+git-repository-icon = "fa-book-sparkles" 
