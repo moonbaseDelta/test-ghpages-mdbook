@@ -1,8 +1,9 @@
 [book]
-authors = ["Vadim Puzankov"]
+authors = ["321"]
 language = "en"
 multilingual = false
 src = "src"
 title = "testo"
+
 [output.html]
 site-url = "/test-ghpages-mdbook/"
