@@ -1,0 +1,6 @@
+[book]
+authors = ["Vadim Puzankov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "testo"
