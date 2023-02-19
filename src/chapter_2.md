@@ -37,3 +37,24 @@ To https://github.com/moonbaseDelta/test-ghpages-mdbook.git
 > remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 > To https://github.com/moonbaseDelta/test-ghpages-mdbook.git
 >   4f5e633..261ccc6  master -> master
+
+
+> `Writing objects: 100% (4/4), 562 bytes | 562.00 KiB/s, done.
+> Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+> remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+> To https://github.com/moonbaseDelta/test-ghpages-mdbook.git
+>   4f5e633..261ccc6  master -> master`
+
+
+
+> ```Writing objects: 100% (4/4), 562 bytes | 562.00 KiB/s, done.
+> Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+> remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+> To https://github.com/moonbaseDelta/test-ghpages-mdbook.git
+>   4f5e633..261ccc6  master -> master```
+
+```Writing objects: 100% (4/4), 562 bytes | 562.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/moonbaseDelta/test-ghpages-mdbook.git
+4f5e633..261ccc6  master -> master```
